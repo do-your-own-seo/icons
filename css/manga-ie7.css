@@ -1,0 +1,23 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'manga';
+  font-style: normal;
+  font-weight: normal;
+ 
+  /* fix buttons height */
+  line-height: 1em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+ 
+.icon-hero5 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-hero6 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-hero7 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+.icon-cat1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
+.icon-cat2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
+.icon-cat3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
+.icon-cat4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
+.icon-hero1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;'); }
+.icon-hero2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;&nbsp;'); }
+.icon-hero3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe809;&nbsp;'); }
+.icon-hero4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;&nbsp;'); }
